@@ -1,7 +1,7 @@
 import heapq
 import time
 start_time=time.time()
-f=open("C:\\Users\\kengq\\OneDrive\\Documents\\Programming\\in.txt","r").readlines()
+f=open("input23b.txt","r").readlines()
 depth=len(f)-3
 class state():
     def readInput(self):
