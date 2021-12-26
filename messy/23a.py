@@ -1,7 +1,7 @@
 import heapq
 import time
 start_time=time.time()
-f=open("C:\\Users\\kengq\\OneDrive\\Documents\\Programming\\in.txt","r").readlines()
+f=open("input23a.txt","r").readlines()
 class state():
     def readInput(self):
         self.hallway=[-1]*11
