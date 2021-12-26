@@ -1,4 +1,4 @@
-hex_data=open("C:\\Users\\kengq\\OneDrive\\Documents\\Programming\\in.txt","r").read()
+hex_data=open("input16.txt","r").read()
 def hex_to_4_digit_binary(char):
     n=int(char,16)
     res=[0]*4
