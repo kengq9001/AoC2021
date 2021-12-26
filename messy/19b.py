@@ -1,5 +1,5 @@
 from collections import Counter
-f=open("C:\\Users\\kengq\\OneDrive\\Documents\\Programming\\in.txt","r").readlines()
+f=open("input19.txt","r").readlines()
 data=[]
 scanners=0
 for i in range(len(f)):
