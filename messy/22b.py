@@ -1,5 +1,5 @@
 import heapq
-f=open("C:\\Users\\kengq\\OneDrive\\Documents\\Programming\\in.txt","r").readlines()
+f=open("input22.txt","r").readlines()
 n=len(f)
 orders=[]
 sweepX=[]
