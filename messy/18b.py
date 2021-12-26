@@ -1,4 +1,4 @@
-f=open("C:\\Users\\kengq\\OneDrive\\Documents\\Programming\\in.txt","r").readlines()
+f=open("input18.txt","r").readlines()
 def readPair(pair,string):
     i=1
     leftstart=1
